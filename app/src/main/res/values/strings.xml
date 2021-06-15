@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DarkThemeImplementation</string>
+    <string name="record">Record</string>
+    <string name="short_views">Short Views</string>
+    <string name="more">more</string>
+    <string name="clients">Clients</string>
+    <string name="impacted">Impacted</string>
+</resources>
